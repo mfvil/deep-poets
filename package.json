@@ -15,6 +15,9 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "forestry-preview": "gatsby develop -p 8080 -H 0.0.0.0"
   },
+  "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
   "dependencies": {
     "gatsby": "^2.13.9",
     "gatsby-image": "^2.2.8",
@@ -34,14 +37,16 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "gh-pages": "^2.1.1",
     "prettier": "^1.18.2"
   },
   "keywords": [
     "gatsby",
-    "forestry"
+    "forestry",
+    "poets"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/forestryio/brevifolia-gatsby-forestry"
+    "url": "https://github.com/mfvil/deep-poets/"
   }
 }
