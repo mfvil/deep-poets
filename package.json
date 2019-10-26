@@ -1,7 +1,7 @@
 {
-  "name": "foresry-starter-blog-gatsby",
+  "name": "Deep-poets",
   "private": true,
-  "description": "A simple starter blog to get up and developing quickly with Forestry & Gatsby",
+  "description": "A simple poetic blog",
   "license": "MIT",
   "version": "0.1.0",
   "author": "kendall strautman",
@@ -22,9 +22,6 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1"
-  },
-  "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
