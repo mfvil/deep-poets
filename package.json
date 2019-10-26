@@ -5,9 +5,6 @@
   "license": "MIT",
   "version": "0.1.0",
   "author": "kendall strautman",
-  "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
-  },
   "dependencies": {
     "gatsby": "^2.13.9",
     "gatsby-image": "^2.2.8",
@@ -25,6 +22,9 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1"
+  },
+  "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
