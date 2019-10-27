@@ -5,3 +5,4 @@ title: My Precious Cheeks
 author: Richard Rockland
 
 ---
+![](/content/images/my-cheeks-10-19.jpg)
