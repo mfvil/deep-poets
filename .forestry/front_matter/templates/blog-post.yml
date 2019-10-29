@@ -36,5 +36,6 @@ fields:
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 pages:
+- content/posts/god-licks.md
 - content/posts/dynamic-moonlight.md
 - content/posts/my-precious-cheeks.md
