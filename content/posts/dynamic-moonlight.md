@@ -5,4 +5,4 @@ title: Dynamic Moonlight
 author: Richard Rockland
 
 ---
-![](/content/images/20191029_123120_HDR\~2.jpg)
+![Dynamic Moonlight Haikubes](/content/images/20191029_123120_HDR\~2.jpg "Dynamic Moonlight ")
