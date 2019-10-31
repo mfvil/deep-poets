@@ -5,4 +5,4 @@ title: Hot jerk eyes
 author: Richard Rockland
 
 ---
-![Hot jerk eyes haikubes](/content/images/20191030_160636_HDR\~2.jpg)
+![Hot jerk eyes ](/content/images/20191030_160636_HDR\~2.jpg "Hot jerk eyes ")
