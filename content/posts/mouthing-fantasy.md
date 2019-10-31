@@ -5,4 +5,4 @@ title: Mouthing Fantasy
 author: Tanya Lockhart
 
 ---
-* ![Mouthing Fantasy](/content/images/768D960E-39ED-4B2A-A1DB-75501D3B08BB.jpeg "Mouthing Fantasy ")
+![Mouthing Fantasy](/content/images/768D960E-39ED-4B2A-A1DB-75501D3B08BB.jpeg "Mouthing Fantasy ")
