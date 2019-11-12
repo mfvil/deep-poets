@@ -13,9 +13,7 @@ export default function Info() {
         </h2>
         <ul>
           <li>
-            <p>
-             The deepest posets, bringing deep thoughts to you.
-            </p>
+             <p>Deepest poets, bringing deep thoughts to you.</p>
             <p>&nbsp;</p>
             <p>Anita Artaud:<br />
             Cult’s greatest bicep warrior <br />
@@ -26,6 +24,11 @@ export default function Info() {
                Tangle that fortune deep true<br />
                Crack precious dad cheeks
            </p>
+           <p>&nbsp;</p>
+           <p>Tanya K Lockhart:</p>
+           <p>Madam of the cubes<br />
+              Witchy fingers, write, write, write<br />
+              Waiting for Jason</p>
           </li>
         </ul>
       </section>
