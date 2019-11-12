@@ -14,8 +14,18 @@ export default function Info() {
         <ul>
           <li>
             <p>
-              Created by Richard Rockland and friends/colleagues.
+             The deepest posets, bringing deep thoughts to you.
             </p>
+            <p>&nbsp;</p>
+            <p>Anita Artaud:<br />
+            Cult’s greatest bicep warrior <br />
+            Cackling squat genius 
+            </p>
+            <p>&nbsp;</p>
+            <p>Richard Rockland says:<br />
+               Tangle that fortune deep true<br />
+               Crack precious dad cheeks
+           </p>
           </li>
         </ul>
       </section>
