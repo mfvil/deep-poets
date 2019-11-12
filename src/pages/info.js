@@ -27,7 +27,7 @@ export default function Info() {
            <p>&nbsp;</p>
            <p>Tanya K Lockhart:</p>
            <p>Madam of the cubes<br />
-              Witchy fingers, write, write, write<br />
+              Witchy fingers write, write, write<br />
               Waiting for Jason</p>
           </li>
         </ul>
