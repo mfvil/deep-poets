@@ -18,7 +18,8 @@ module.exports = {
     resolve: `gatsby-plugin-google-analytics`,
     options: {
       trackingId: "UA-122673725-2",
-    }
+      head: true,
+    },
   },
     "gatsby-plugin-sass",
     "gatsby-transformer-remark",
