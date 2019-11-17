@@ -14,16 +14,17 @@ module.exports = {
     infoData: infoData
   },
   plugins: [
-    "gatsby-plugin-sitemap",
+    {      
+    resolve: `gatsby-plugin-google-analytics`,
+    options: {
+      trackingId: "UA-122673725-2",
+    }
+  },
     "gatsby-plugin-sass",
     "gatsby-transformer-remark",
     "gatsby-plugin-react-helmet",
     "gatsby-transformer-yaml",
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-122673725-2",
-      },
       resolve: "gatsby-source-filesystem",
       options: {
         name: "src",
